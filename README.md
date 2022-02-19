@@ -14,7 +14,7 @@ We now provide a *clean* version of Image processing, which does not require cus
 1. Clone repo
 
     ```bash
-    git clone 
+    git clone https://github.com/sirishrayaprolu/Image_processing.git
     ```
 
 1. Install dependent packages
